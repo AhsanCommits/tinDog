@@ -180,13 +180,10 @@ background-color: #fff;
 
 /* Responsive */
 @media (max-width: 1028px) {
-  #title{
+  .title-main{
   text-align: center;
   }
 
-  #title ul{
-  text-align: left;
-  }
 
   .nav-item {
     padding: 0;
